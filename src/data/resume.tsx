@@ -220,15 +220,17 @@ export const DATA = {
     },
     {
       title: "Inversiones CSS",
-      kind: { es: "Cliente real · Web + sistema interno", en: "Real client · Website + internal system" },
+      kind: { es: "Cliente real · Tienda online (e-commerce)", en: "Real client · Online store (e-commerce)" },
       description: {
-        es: "Importadora de bolsas al vacío en Santa Anita. Web con el catálogo real y carrito de cotización que envía el pedido al WhatsApp del negocio, más un sistema interno de ventas, inventario y dashboard sobre una API propia.",
-        en: "A vacuum-bag importer in Santa Anita, Lima. Website with the real catalogue and a quote cart that sends the order to the business's WhatsApp, plus an internal sales, inventory and dashboard system on its own API.",
+        es: "Tienda online de una importadora de bolsas al vacío en Lima. Catálogo por líneas (lisas, gofradas y rollos) con precios, buscador por medida, carrito con el total con IGV y pedido que se envía solo por WhatsApp. Pago con Yape, Plin o transferencia y envíos a todo el Perú.",
+        en: "Online store for a vacuum-bag importer in Lima. Catalogue by product line (smooth, embossed and rolls) with prices, search by size, a cart with the total including tax, and orders sent automatically via WhatsApp. Payment by Yape, Plin or bank transfer, with shipping across Peru.",
       },
       technologies: ["React", "Laravel", "MySQL"],
       image: "/img/inversiones-web.webp",
-      href: "",
-      links: [],
+      href: "https://bolsasalvacio-inversionescss.pages.dev/",
+      links: [
+        { type: { es: "Tienda", en: "Store" }, href: "https://bolsasalvacio-inversionescss.pages.dev/", icon: "globe" },
+      ],
     },
     {
       title: "El Muelle Norteño",
