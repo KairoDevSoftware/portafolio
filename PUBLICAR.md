@@ -30,7 +30,7 @@ La primera vez se abre una ventana para iniciar sesión en GitHub: entra con **K
    - **Build command:** `npm run build`
    - **Build output directory:** `out`
    - **Environment variables:** `NODE_VERSION` = `22`
-4. Pulsa **Save and Deploy**. En 1 o 2 minutos te da la dirección `https://portafolio-xxx.pages.dev`.
+4. Pulsa **Save and Deploy**. En 1 o 2 minutos queda publicado. El proyecto se llama `davidvega` y la dirección es https://davidvega.pages.dev (el nombre `portafolio` ya estaba ocupado en Cloudflare).
 
 ## Después: cambiar algo
 

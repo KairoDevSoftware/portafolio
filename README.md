@@ -2,7 +2,7 @@
 
 Portafolio personal de David Vega, desarrollador Full Stack (Java · Spring Boot · React) en Lima, Perú.
 
-Publicado en Cloudflare Pages.
+Publicado en Cloudflare Pages: https://davidvega.pages.dev
 
 - Bilingüe: español e inglés (botón ES / EN; recuerda el idioma elegido).
 - Fondo claro u oscuro (botón en la barra de abajo).

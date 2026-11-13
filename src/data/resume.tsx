@@ -24,7 +24,7 @@ export const DATA = {
   name: "David Vega",
   role: { es: "Desarrollador Full Stack", en: "Full Stack Developer" } as L,
   initials: "DV",
-  url: "https://portafolio.pages.dev", // cambiar por la dirección final de Cloudflare
+  url: "https://davidvega.pages.dev",
   avatarUrl: "/img/david.webp",
 
   greeting: { es: "Hola, soy David", en: "Hi, I'm David" } as L,
