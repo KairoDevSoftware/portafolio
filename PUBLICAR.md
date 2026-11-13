@@ -8,7 +8,7 @@ El código vive en GitHub (cuenta **KairoDevSoftware**) y **Cloudflare Pages** l
 2. Arriba a la derecha pulsa **+** → **New repository**.
 3. Llena el formulario:
    - **Repository name:** `portafolio`
-   - **Visibility:** **Private** (Cloudflare funciona igual y así no se ve la cuenta Kairo).
+   - **Visibility:** **Public** (así cualquiera, incluidos los reclutadores, puede ver el código).
    - **No marques** "Add a README", ".gitignore" ni "license": el proyecto ya los tiene.
 4. Pulsa **Create repository**.
 
